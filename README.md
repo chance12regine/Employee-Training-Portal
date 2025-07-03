@@ -180,11 +180,6 @@ interface EnrollmentState {
 
 ## Deployment
 
-### Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy with automatic builds
-
 ### Manual Deployment
 1. Build the application:
 \`\`\`bash
@@ -196,12 +191,5 @@ npm run build
 npm start
 \`\`\`
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
 
 
